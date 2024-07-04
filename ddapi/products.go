@@ -9,8 +9,8 @@ import (
 	"net/http"
 	"strconv"
 
-	"dev.azure.com/bbts-lab/DevSecOps/_git/ms-ddconnector/ddapi/types"
-	"dev.azure.com/bbts-lab/DevSecOps/_git/ms-ddconnector/utils"
+	"dev.azure.com/bbts-lab/DevSecOps/_git/ddconnector/ddapi/types"
+	"dev.azure.com/bbts-lab/DevSecOps/_git/ddconnector/utils"
 )
 
 // GetProducts retrieves all products, handling pagination
