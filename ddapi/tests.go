@@ -6,8 +6,8 @@ import (
 	"io"
 	"net/http"
 
-	"dev.azure.com/bbts-lab/DevSecOps/_git/ms-ddconnector/ddapi/types"
-	"dev.azure.com/bbts-lab/DevSecOps/_git/ms-ddconnector/utils"
+	"dev.azure.com/bbts-lab/DevSecOps/_git/ddconnector/ddapi/types"
+	"dev.azure.com/bbts-lab/DevSecOps/_git/ddconnector/utils"
 )
 
 func (c *Client) GetTests(pageURL *string) (types.RespTests, error) {
