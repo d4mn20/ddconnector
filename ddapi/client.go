@@ -6,7 +6,7 @@ import (
 	"os"
 	"time"
 
-	cache "dev.azure.com/bbts-lab/DevSecOps/_git/ms-ddconnector/config"
+	cache "dev.azure.com/bbts-lab/DevSecOps/_git/ddconnector/config"
 )
 
 type Client struct {
