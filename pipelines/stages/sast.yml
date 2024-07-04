@@ -1,4 +1,0 @@
-jobs:
-  - job: SAST
-    steps:
-      - task: BBTSCodeSecurityTask@0
