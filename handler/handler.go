@@ -1,7 +1,7 @@
 package handler
 
 import (
-	"dev.azure.com/bbts-lab/DevSecOps/_git/ms-ddconnector/config"
+	"dev.azure.com/bbts-lab/DevSecOps/_git/ddconnector/config"
 	"gorm.io/gorm"
 )
 
