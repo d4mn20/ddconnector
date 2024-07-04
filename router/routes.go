@@ -3,7 +3,7 @@ package router
 import (
 	"fmt"
 
-	"dev.azure.com/bbts-lab/DevSecOps/_git/ms-ddconnector/handler"
+	"dev.azure.com/bbts-lab/DevSecOps/_git/ddconnector/handler"
 	"github.com/gin-gonic/gin"
 )
 
