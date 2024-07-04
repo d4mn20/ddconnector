@@ -6,9 +6,9 @@ import (
 	"net/http"
 	"time"
 
-	"dev.azure.com/bbts-lab/DevSecOps/_git/ms-ddconnector/ddapi"
-	"dev.azure.com/bbts-lab/DevSecOps/_git/ms-ddconnector/ddapi/types"
-	"dev.azure.com/bbts-lab/DevSecOps/_git/ms-ddconnector/schemas"
+	"dev.azure.com/bbts-lab/DevSecOps/_git/ddconnector/ddapi"
+	"dev.azure.com/bbts-lab/DevSecOps/_git/ddconnector/ddapi/types"
+	"dev.azure.com/bbts-lab/DevSecOps/_git/ddconnector/schemas"
 	"github.com/gin-gonic/gin"
 )
 
