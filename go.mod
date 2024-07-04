@@ -1,4 +1,4 @@
-module dev.azure.com/bbts-lab/DevSecOps/_git/ms-ddconnector
+module dev.azure.com/bbts-lab/DevSecOps/_git/ddconnector
 
 go 1.21.3
 
