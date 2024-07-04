@@ -3,8 +3,8 @@ package main
 import (
 	"fmt"
 
-	"dev.azure.com/bbts-lab/DevSecOps/_git/ms-ddconnector/config"
-	"dev.azure.com/bbts-lab/DevSecOps/_git/ms-ddconnector/router"
+	"dev.azure.com/bbts-lab/DevSecOps/_git/ddconnector/config"
+	"dev.azure.com/bbts-lab/DevSecOps/_git/ddconnector/router"
 )
 
 func main() {
