@@ -3,7 +3,7 @@ package config
 import (
 	"os"
 
-	"dev.azure.com/bbts-lab/DevSecOps/_git/ms-ddconnector/schemas"
+	"dev.azure.com/bbts-lab/DevSecOps/_git/ddconnector/schemas"
 	"gorm.io/driver/sqlite"
 	"gorm.io/gorm"
 )
