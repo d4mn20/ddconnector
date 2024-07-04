@@ -11,7 +11,7 @@ import (
 	"path/filepath"
 	"strconv"
 
-	"dev.azure.com/bbts-lab/DevSecOps/_git/ms-ddconnector/ddapi/types"
+	"dev.azure.com/bbts-lab/DevSecOps/_git/ddconnector/ddapi/types"
 )
 
 func (c *Client) ReimportScan(engagementID int, filePath, productName, engagementName, testTypeName string, autoCreateContext, deduplicationOnEngagement bool) (types.TestResult, error) {
